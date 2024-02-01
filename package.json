@@ -12,5 +12,9 @@
   "browserslist": "> 0.25%, not dead",
   "devDependencies": {
     "parcel": "^2.11.0"
+  },
+  "dependencies": {
+    "color-convert": "^2.0.1",
+    "notyf": "^3.10.0"
   }
 }
